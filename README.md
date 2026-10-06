@@ -21,7 +21,7 @@ crontab -e
 Below is an example of my cron job. The first section `23 0-20 * * *` designates the time the command will be executed. Mine runs every 23rd minute of the hour I am on my computer from Midnight to 8PM. For help scheduling your own cron the website [Cron Guru](https://crontab.guru/) is excellent.
 
 ```
-23 0-20 * * * cd PATH_TO_YOUR_CODE/hack-my-contributions-golf; ./script.sh
+23 0-20 * * * cd PATH_TO_YOUR_CODE/sprout; ./script.sh
 ```
 
 The second part is the command you would like to run at that specific time. This one directs you to the code and executes the file. Be sure to put your own path in.
