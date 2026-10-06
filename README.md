@@ -1,7 +1,5 @@
 # Sprout 🌱
 
-## About
-
 Not on GitHub as much as you'd like to be, but still want your contributions to show green? Sprout tends your GitHub contribution garden by writing the current date to a text file and committing it on a schedule. It uses cron to run automatically, planting a little green in your contribution graph one commit at a time.
 
 ## Installation
